@@ -1,2 +1,2 @@
-# starwarsapi
-Criando página do como método de estudo Star Wars
+# pokemon
+Criando página do como método de estudo sobre Pokemon
